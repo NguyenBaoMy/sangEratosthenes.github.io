@@ -1,0 +1,16 @@
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\kiemTraSoNguyenTo\bin\Debug\netcoreapp3.1\kiemTraSoNguyenTo.exe
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\kiemTraSoNguyenTo\bin\Debug\netcoreapp3.1\kiemTraSoNguyenTo.deps.json
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\kiemTraSoNguyenTo\bin\Debug\netcoreapp3.1\kiemTraSoNguyenTo.runtimeconfig.json
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\kiemTraSoNguyenTo\bin\Debug\netcoreapp3.1\kiemTraSoNguyenTo.runtimeconfig.dev.json
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\kiemTraSoNguyenTo\bin\Debug\netcoreapp3.1\kiemTraSoNguyenTo.dll
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\kiemTraSoNguyenTo\bin\Debug\netcoreapp3.1\kiemTraSoNguyenTo.pdb
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\kiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\kiemTraSoNguyenTo.csproj.AssemblyReference.cache
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\kiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\kiemTraSoNguyenTo.Form1.resources
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\kiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\kiemTraSoNguyenTo.csproj.GenerateResource.cache
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\kiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\kiemTraSoNguyenTo.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\kiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\kiemTraSoNguyenTo.AssemblyInfoInputs.cache
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\kiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\kiemTraSoNguyenTo.AssemblyInfo.cs
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\kiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\kiemTraSoNguyenTo.csproj.CoreCompileInputs.cache
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\kiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\kiemTraSoNguyenTo.dll
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\kiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\kiemTraSoNguyenTo.pdb
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\kiemTraSoNguyenTo\obj\Debug\netcoreapp3.1\kiemTraSoNguyenTo.genruntimeconfig.cache

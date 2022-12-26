@@ -1,0 +1,16 @@
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\demo\demo\demo\bin\Debug\netcoreapp3.1\demo.exe
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\demo\demo\demo\bin\Debug\netcoreapp3.1\demo.deps.json
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\demo\demo\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\demo\demo\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\demo\demo\demo\bin\Debug\netcoreapp3.1\demo.dll
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\demo\demo\demo\bin\Debug\netcoreapp3.1\demo.pdb
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\demo\demo\demo\obj\Debug\netcoreapp3.1\demo.csproj.AssemblyReference.cache
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\demo\demo\demo\obj\Debug\netcoreapp3.1\demo.csproj.GenerateResource.cache
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\demo\demo\demo\obj\Debug\netcoreapp3.1\demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\demo\demo\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\demo\demo\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\demo\demo\demo\obj\Debug\netcoreapp3.1\demo.csproj.CoreCompileInputs.cache
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\demo\demo\demo\obj\Debug\netcoreapp3.1\demo.dll
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\demo\demo\demo\obj\Debug\netcoreapp3.1\demo.pdb
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\demo\demo\demo\obj\Debug\netcoreapp3.1\demo.genruntimeconfig.cache
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\demo\demo\demo\obj\Debug\netcoreapp3.1\demo.TextBoxStreamWriter.resources

@@ -41,21 +41,17 @@ namespace sangEratosthenes
 				Console.WriteLine(f + ". ");
 
 				//In ra các số nguyên tố
-				Console.WriteLine("Eratosthenes: ");
+				/*Console.WriteLine("Eratosthenes: ");
 				for (int i = 2; i <= int.Parse(inp[f]); i++)
 					if (a[i] == true)
-						Console.Write("{0} ", i);
+						Console.Write("{0} ", i);*/
 
 				// Thời gian kết thúc
 				tEra.Stop();
 
 				//Tổng thời gian thực hiện 
 				string t1 = string.Format("\nTime of Eratosthenes: {0} ticks = {1}s", tEra.ElapsedTicks, Math.Round(1.0 * (tEra.ElapsedTicks * 0.00000001), 4));
-				File.WriteAllText("dauRa.txt",t1);
-
-				//In ra file
-				string o1 = File.ReadAllText("dauRa.txt");
-				Console.WriteLine(o1);
+				File.AppendAllText("dauRa.txt", t1);
 
 				tSun.Start();
 
@@ -68,24 +64,27 @@ namespace sangEratosthenes
 					for (int j = 2; (i + j + 2 * i * j) <= int.Parse(inp[f]); j++)
 						a[i + j + 2 * i * j] = false;
 
-				Console.WriteLine("Sundaram: ");
+				/*Console.WriteLine("Sundaram: ");
 
 				if (int.Parse(inp[f]) > 2)
 					Console.Write(2 + " ");
 
 				for (int i = 1; i < (int.Parse(inp[f]) - 2) / 2; i++)
 					if (a[i] == true)
-						Console.Write(2 * i + 1 + " ");
+						Console.Write(2 * i + 1 + " ");*/
 
 				tSun.Stop();
 
 				//Tổng thời gian thực hiện 
 				string t2 = string.Format("\nTime of Sundaram: {0} ticks = {1}s", tSun.ElapsedTicks, Math.Round(1.0 * (tSun.ElapsedTicks * 0.00000001), 4));
-				File.WriteAllText("dauRa.txt", t2);
+				File.AppendAllText("dauRa.txt", t2);
 
 				//In ra file
-				string o2 = File.ReadAllText("dauRa.txt");
-				Console.WriteLine(o2);
+				string oup = File.ReadAllText("dauRa.txt");
+				Console.WriteLine(oup);
+
+				
+				
 			}
 			Console.ReadKey();
 		}

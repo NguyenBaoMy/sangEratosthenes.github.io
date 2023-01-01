@@ -2,9 +2,9 @@
 using System.Diagnostics;
 using System.IO;
 
-namespace sangEratosthenes
+namespace kiemTraSoNguyenTo
 {
-	class Program
+	class demo
 	{
 		static void Main(string[] args)
 		{

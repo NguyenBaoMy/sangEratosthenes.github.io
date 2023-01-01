@@ -1,1 +1,22 @@
 
+
+Total time of Eratosthenes 0: 9298620 ticks = 0,093s
+Total time of Sundaram 0: 7142 ticks = 0,0001s
+Total time of Eratosthenes 1: 18930544 ticks = 0,1893s
+Total time of Sundaram 1: 13504456 ticks = 0,135s
+Total time of Eratosthenes 2: 35813747 ticks = 0,3581s
+Total time of Sundaram 2: 14178184 ticks = 0,1418s
+Total time of Eratosthenes 3: 39549203 ticks = 0,3955s
+Total time of Sundaram 3: 36680258 ticks = 0,3668s
+Total time of Eratosthenes 4: 52106133 ticks = 0,5211s
+Total time of Sundaram 4: 51701097 ticks = 0,517s
+Total time of Eratosthenes 5: 63729178 ticks = 0,6373s
+Total time of Sundaram 5: 70726089 ticks = 0,7073s
+Total time of Eratosthenes 6: 154822406 ticks = 1,5482s
+Total time of Sundaram 6: 154110795 ticks = 1,5411s
+Total time of Eratosthenes 7: 269597723 ticks = 2,696s
+Total time of Sundaram 7: 223021624 ticks = 2,2302s
+Total time of Eratosthenes 8: 340245193 ticks = 3,4025s
+Total time of Sundaram 8: 287215660 ticks = 2,8722s
+Total time of Eratosthenes 9: 626691960 ticks = 6,2669s
+Total time of Sundaram 9: 596869753 ticks = 5,9687s

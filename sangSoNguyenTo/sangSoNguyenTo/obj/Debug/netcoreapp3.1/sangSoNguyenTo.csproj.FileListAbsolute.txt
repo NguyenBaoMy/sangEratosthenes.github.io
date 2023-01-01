@@ -1,5 +1,0 @@
-D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\sangSoNguyenTo\sangSoNguyenTo\obj\Debug\netcoreapp3.1\sangSoNguyenTo.csproj.AssemblyReference.cache
-D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\sangSoNguyenTo\sangSoNguyenTo\obj\Debug\netcoreapp3.1\sangSoNguyenTo.GeneratedMSBuildEditorConfig.editorconfig
-D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\sangSoNguyenTo\sangSoNguyenTo\obj\Debug\netcoreapp3.1\sangSoNguyenTo.AssemblyInfoInputs.cache
-D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\sangSoNguyenTo\sangSoNguyenTo\obj\Debug\netcoreapp3.1\sangSoNguyenTo.AssemblyInfo.cs
-D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\sangSoNguyenTo\sangSoNguyenTo\obj\Debug\netcoreapp3.1\sangSoNguyenTo.csproj.CoreCompileInputs.cache

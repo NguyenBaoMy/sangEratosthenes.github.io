@@ -1,0 +1,14 @@
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangEratosthenes\sangEratosthenes\bin\Debug\netcoreapp3.1\sangEratosthenes.exe
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangEratosthenes\sangEratosthenes\bin\Debug\netcoreapp3.1\sangEratosthenes.deps.json
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangEratosthenes\sangEratosthenes\bin\Debug\netcoreapp3.1\sangEratosthenes.runtimeconfig.json
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangEratosthenes\sangEratosthenes\bin\Debug\netcoreapp3.1\sangEratosthenes.runtimeconfig.dev.json
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangEratosthenes\sangEratosthenes\bin\Debug\netcoreapp3.1\sangEratosthenes.dll
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangEratosthenes\sangEratosthenes\bin\Debug\netcoreapp3.1\sangEratosthenes.pdb
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangEratosthenes\sangEratosthenes\obj\Debug\netcoreapp3.1\sangEratosthenes.csproj.AssemblyReference.cache
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangEratosthenes\sangEratosthenes\obj\Debug\netcoreapp3.1\sangEratosthenes.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangEratosthenes\sangEratosthenes\obj\Debug\netcoreapp3.1\sangEratosthenes.AssemblyInfoInputs.cache
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangEratosthenes\sangEratosthenes\obj\Debug\netcoreapp3.1\sangEratosthenes.AssemblyInfo.cs
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangEratosthenes\sangEratosthenes\obj\Debug\netcoreapp3.1\sangEratosthenes.csproj.CoreCompileInputs.cache
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangEratosthenes\sangEratosthenes\obj\Debug\netcoreapp3.1\sangEratosthenes.dll
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangEratosthenes\sangEratosthenes\obj\Debug\netcoreapp3.1\sangEratosthenes.pdb
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangEratosthenes\sangEratosthenes\obj\Debug\netcoreapp3.1\sangEratosthenes.genruntimeconfig.cache

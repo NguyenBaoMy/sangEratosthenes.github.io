@@ -1,0 +1,13 @@
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangSundaram\sangSundaram\bin\Debug\netcoreapp3.1\sangSundaram.exe
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangSundaram\sangSundaram\bin\Debug\netcoreapp3.1\sangSundaram.deps.json
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangSundaram\sangSundaram\bin\Debug\netcoreapp3.1\sangSundaram.runtimeconfig.json
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangSundaram\sangSundaram\bin\Debug\netcoreapp3.1\sangSundaram.runtimeconfig.dev.json
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangSundaram\sangSundaram\bin\Debug\netcoreapp3.1\sangSundaram.dll
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangSundaram\sangSundaram\bin\Debug\netcoreapp3.1\sangSundaram.pdb
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangSundaram\sangSundaram\obj\Debug\netcoreapp3.1\sangSundaram.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangSundaram\sangSundaram\obj\Debug\netcoreapp3.1\sangSundaram.AssemblyInfoInputs.cache
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangSundaram\sangSundaram\obj\Debug\netcoreapp3.1\sangSundaram.AssemblyInfo.cs
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangSundaram\sangSundaram\obj\Debug\netcoreapp3.1\sangSundaram.csproj.CoreCompileInputs.cache
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangSundaram\sangSundaram\obj\Debug\netcoreapp3.1\sangSundaram.dll
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangSundaram\sangSundaram\obj\Debug\netcoreapp3.1\sangSundaram.pdb
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\sangSundaram\sangSundaram\obj\Debug\netcoreapp3.1\sangSundaram.genruntimeconfig.cache

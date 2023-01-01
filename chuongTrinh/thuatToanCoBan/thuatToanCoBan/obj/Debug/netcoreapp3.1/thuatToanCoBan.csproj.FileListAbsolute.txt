@@ -1,0 +1,14 @@
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\thuatToanCoBan\thuatToanCoBan\bin\Debug\netcoreapp3.1\thuatToanCoBan.exe
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\thuatToanCoBan\thuatToanCoBan\bin\Debug\netcoreapp3.1\thuatToanCoBan.deps.json
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\thuatToanCoBan\thuatToanCoBan\bin\Debug\netcoreapp3.1\thuatToanCoBan.runtimeconfig.json
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\thuatToanCoBan\thuatToanCoBan\bin\Debug\netcoreapp3.1\thuatToanCoBan.runtimeconfig.dev.json
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\thuatToanCoBan\thuatToanCoBan\bin\Debug\netcoreapp3.1\thuatToanCoBan.dll
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\thuatToanCoBan\thuatToanCoBan\bin\Debug\netcoreapp3.1\thuatToanCoBan.pdb
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\thuatToanCoBan\thuatToanCoBan\obj\Debug\netcoreapp3.1\thuatToanCoBan.csproj.AssemblyReference.cache
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\thuatToanCoBan\thuatToanCoBan\obj\Debug\netcoreapp3.1\thuatToanCoBan.GeneratedMSBuildEditorConfig.editorconfig
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\thuatToanCoBan\thuatToanCoBan\obj\Debug\netcoreapp3.1\thuatToanCoBan.AssemblyInfoInputs.cache
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\thuatToanCoBan\thuatToanCoBan\obj\Debug\netcoreapp3.1\thuatToanCoBan.AssemblyInfo.cs
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\thuatToanCoBan\thuatToanCoBan\obj\Debug\netcoreapp3.1\thuatToanCoBan.csproj.CoreCompileInputs.cache
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\thuatToanCoBan\thuatToanCoBan\obj\Debug\netcoreapp3.1\thuatToanCoBan.dll
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\thuatToanCoBan\thuatToanCoBan\obj\Debug\netcoreapp3.1\thuatToanCoBan.pdb
+D:\NguyenBaoMy\ThucTapCoSo\chuongTrinh\kiemTraSoNguyenTo\chuongTrinh\thuatToanCoBan\thuatToanCoBan\obj\Debug\netcoreapp3.1\thuatToanCoBan.genruntimeconfig.cache

@@ -45,7 +45,7 @@ namespace demo
 
 				tEra.Stop();
 
-				string t1 = string.Format("\nTotal time of Eratosthenes: {0} ticks = {1}s", tEra.ElapsedTicks, Math.Round(1.0 * (tEra.ElapsedTicks * Math.Pow(10,-8)), 4));
+				string t1 = string.Format("\nTotal time of Eratosthenes {0}: {1} ticks = {2}s", f, tEra.ElapsedTicks, Math.Round(1.0 * (tEra.ElapsedTicks * Math.Pow(10,-8)), 4));
 				File.AppendAllText("dauRa.txt", t1);
 
 				tSun.Start();
@@ -70,7 +70,7 @@ namespace demo
 
 				tSun.Stop();
 
-				string t2 = string.Format("\nTotal time of Sundaram: {0} ticks = {1}s", tSun.ElapsedTicks, Math.Round(1.0 * (tSun.ElapsedTicks * Math.Pow(10,-8)), 4));
+				string t2 = string.Format("\nTotal time of Sundaram {0}: {1} ticks = {2}s", f, tSun.ElapsedTicks, Math.Round(1.0 * (tSun.ElapsedTicks * Math.Pow(10,-8)), 4));
 				File.AppendAllText("dauRa.txt", t2);
 
 				string oup = File.ReadAllText("dauRa.txt");
